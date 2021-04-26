@@ -1,4 +1,4 @@
-# defaul shell
+ka# defaul shell
 SHELL = /bin/bash
 
 # Rule "help"
